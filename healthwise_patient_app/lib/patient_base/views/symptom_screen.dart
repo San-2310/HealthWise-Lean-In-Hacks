@@ -37,7 +37,7 @@ class _SymptomsScreenState extends State<SymptomsScreen> {
     'Fatigue',
     'Dizziness',
     'Epistaxis',
-    'Difficulty in breathing'
+    'Difficulty in breathing',
   ];
 
   Future<void> showSymptomsPopup(String symptomsString) async {
