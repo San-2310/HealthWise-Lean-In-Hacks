@@ -1,5 +1,8 @@
 🚀 HealthWise: AI-Powered Proactive Healthcare
 
+PPT:
+https://drive.google.com/file/d/1RM0Ob5jzx3-o7yLvqWjOxbJdWBHXe05c/view?usp=share_link
+
 📌 Overview
 
 HealthWise is a next-generation, AI-driven Remote Patient Monitoring System (RPM) designed to bridge the gaps in modern healthcare by shifting from reactive to proactive patient care. Unlike traditional healthcare apps that rely on doctor visits and symptom-based consultations, HealthWise continuously monitors vitals, predicts health risks, and automates emergency interventions to prevent crises before they occur.
@@ -68,13 +71,18 @@ Unlike competitors that rely on a single, limited mobile app, HealthWise offers 
 
 🛠️ Technology Stack
 
-Component Technology Used
-Frontend (Mobile & Wear OS App) Flutter (Dart)
-Backend & API Dart + Flask (Python) + Firebase
-Database Firestore (NoSQL, HIPAA-compliant)
-AI/ML Models Random Forest, Isolation Forest, Word2Vec, BioBERT, U-Net, Fine-Tuned T5
-Wearable Integration FlutterBlue & BLE APIs
-Emergency Calls & Alerts Twilio API
+Component - Technology Used
+Frontend (Mobile & Wear OS App) - Flutter (Dart)
+
+Backend & API - Dart + Flask (Python) + Firebase
+
+Database - Firestore (NoSQL, HIPAA-compliant)
+
+AI/ML Models - Random Forest, Isolation Forest, Word2Vec, BioBERT, U-Net, Fine-Tuned T5
+
+Wearable Integration - FlutterBlue & BLE
+
+Emergency Calls & Alerts - Twilio API
 
 🔍 Competitive Edge: Why HealthWise is Unmatched?
 
@@ -98,14 +106,19 @@ Emergency Calls & Alerts Twilio API
 
 💰 Business Model & Monetization Strategy
 
-Revenue Stream Projected 5-Year Revenue (₹ Cr)
-B2C Subscriptions (Patient Plans) ₹450 Cr
-B2B SaaS Licensing (Hospitals, Clinics, Senior Care Centers) ₹375 Cr
-AI Wellness & Mental Health Coaching ₹204 Cr
-Pharmacy, Insurance & Telemedicine Integrations ₹105 Cr
-Doctor Collaboration & Career Growth ₹180 Cr
-Health Data Insights & Research ₹20 Cr
-🚀 Total Revenue in 5 Years ₹1,334 Cr (~$166M USD)
+Revenue Streams:
+
+B2C Subscriptions (Patient Plans)
+
+B2B SaaS Licensing (Hospitals, Clinics, Senior Care Centers)
+
+AI Wellness & Mental Health Coaching
+
+Pharmacy, Insurance & Telemedicine Integrations
+
+Doctor Collaboration & Career Growth
+
+Health Data Insights & Research
 
 📢 HealthWise is a scalable, multi-revenue healthcare platform with massive growth potential.
 
